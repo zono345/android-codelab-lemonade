@@ -29,4 +29,9 @@ Tips
 
 アプリ画面
 ----
-![image](https://user-images.githubusercontent.com/88254716/195951018-b02a3bff-58f9-45ca-8680-b89d2c331dd2.png)
+### 遷移図 ###
+![image](https://user-images.githubusercontent.com/88254716/195951018-b02a3bff-58f9-45ca-8680-b89d2c331dd2.png)  
+  
+### GIF ###  
+<img src="https://user-images.githubusercontent.com/88254716/195953125-fc79224d-e8ec-48e6-82bb-fc89068aaa56.gif" width="300">
+
