@@ -25,3 +25,8 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+
+アプリ画面
+----
+![image](https://user-images.githubusercontent.com/88254716/195951018-b02a3bff-58f9-45ca-8680-b89d2c331dd2.png)
